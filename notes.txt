@@ -1,0 +1,11 @@
+using free tier of gpt4 + DallE
+
+
+idea: image generation flow
+start with svg
+svg export to any size png
+
+using gpt4 for pwa example...
+
+look into co-pilot example...
+

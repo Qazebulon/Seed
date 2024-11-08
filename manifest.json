@@ -1,0 +1,22 @@
+{
+	"name": "Seed PWA",
+	"short_name": "Seed",
+	"start_url": "index.html?fullscreen=true",
+	"display": "fullscreen",
+	"display_override": ["fullscreen"],
+	"background_color": "#ffffff",
+	"theme_color": "#ffffff",
+	"description": "The start...",
+	"icons": [
+		{
+			"src": "icon-192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "icon-512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}
